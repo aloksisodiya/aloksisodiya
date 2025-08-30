@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi👋 I'm Alok Sisodiya!!<br>A Software Developer , Student of Engineering who loves to transform Ideas <br>into Reality by building Scalable Systems and attractive UI.<br><br>🔹 🚀 Tech Stack:<br>Languages: C, C++, JavaScript<br>Frameworks: React.js (Basic), Node.js, Express.js, TailwindCSS<br>Web Development: HTML, CSS, JavaScript, Bootstrap, PostgreSQL, MongoDB, Mongoose, Postman API, Swagger UI<br>Coursework: Data Structure and Algorithm, OOPs, DBMS, Computer Networks, Operating System
+Hi👋 I'm Alok Sisodiya!!<br>A Software Developer , Student of Engineering who loves to transform Ideas <br>into Reality by building Scalable Systems.<br><br>🔹 🚀 Tech Stack:<br>Languages: C, C++, JavaScript<br>Frameworks: React.js (Basic), Node.js, Express.js, TailwindCSS<br>Web Development: HTML, CSS, JavaScript, Bootstrap, PostgreSQL, MongoDB, Mongoose, Postman API, Swagger UI<br>Coursework: Data Structure and Algorithm, OOPs, DBMS, Computer Networks, Operating System
 
 
 ## 🌐 Socials:
