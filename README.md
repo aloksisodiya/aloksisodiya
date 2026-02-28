@@ -8,8 +8,6 @@ I am an Engineering student with a strong interest in Software Development and a
 
 I possess a good understanding of Data Structures and Algorithms, and core computer science subjects including DBMS, Computer Networks, and Operating Systems, which help me design efficient and scalable solutions. I enjoy problem-solving, learning new technologies, and applying my knowledge to real-world projects.
 
-I am actively seeking remote internship opportunities where I can contribute as a software developer, gain practical industry experience, and continue growing my technical and collaborative skills.
-
 * 🌍  I'm based in Indore
 * 🖥️  See my portfolio at [Portfolio](http://portfolio-seven-tau-zt8plf40ba.vercel.app/)
 * ✉️  You can contact me at [aloksisodiya30@gmail.com](mailto:aloksisodiya30@gmail.com)
