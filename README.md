@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I am Alok Sisodiya, a Fourth-Year student currently pursuing a Bachelor of Technology from Shri G.S. Institute of Technology and Science, Indore.<br><br>🚀 I'm a passionate Software Developer with experience in Full Stack and Backend Development.<br><br>📧 Feel free to reach out to me at aloksisodiya07@gmail.com<br><br>🌱Currently exploring GenAI & Agentic AI.
+Hi 👋, I am Alok Sisodiya, a Fourth-Year student currently pursuing a Bachelor of Technology from Shri G.S. Institute of Technology and Science, Indore.<br><br>🚀 I'm a passionate Software Developer with experience in Full Stack and Backend Development.<br><br>📧 Feel free to reach out to me at aloksisodiya07@gmail.com<br><br>🌱Currently exploring GenAI, Agentic AI, and Cloud technologies.
 
 
 ## 🌐 Socials:
